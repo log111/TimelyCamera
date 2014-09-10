@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimelyCamera</string>
+    <string name="shotBtn">Shot</string>
+    <string name="previewBtn">Preview</string>
+</resources>
